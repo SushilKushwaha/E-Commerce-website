@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: e-shopping website, Configuration: Debug Any CPU ------
+1>  e-shopping website -> D:\BCE-IV SEM\Project-1\e-shopping\e-shopping\e-shopping\bin\e-shopping.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
